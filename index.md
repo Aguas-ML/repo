@@ -12,11 +12,11 @@ permalink: /
 Colaboramos com o desenvolvimento de tecnologias livres e segurança digital em organizações, movimentos e grupos sociais no Brasil e América Latina, a fim de gerar processos de soberania e autonomia tecnológica.
 {: .fs-6 .fw-300 }
 
-[Get started now](#servicos-digitais){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Veja nossos serviços](https://graficos.aguas.ml){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#serviços-digitais){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Veja nossos serviços](https://graficos.aguas.ml){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## serviços digitais
+## Serviços digitais
 
 Nossos serviços digitais são ações que compõem um conjunto de ferramentas capazes de dar suporte às nossas capacidades adaptativas cibernáticas, preservando o possível da liberdade e privacidade da pessoa humana.
 
