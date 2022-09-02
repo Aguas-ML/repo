@@ -1,6 +1,6 @@
 ---
 layout: default
-title: notas docker
+title: Notas para docker
 nav_order: 3
 has_children: true
 permalink: /docs/listas-docker
