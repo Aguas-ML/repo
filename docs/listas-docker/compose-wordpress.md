@@ -17,27 +17,12 @@ nav_order: 2
 
 ---
 
-## Inline code
-
-Code can be rendered inline by wrapping it in single back ticks.
-
-<div class="code-example" markdown="1">
-Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Heading with `<inline code snippet>` in it.
-{: .no_toc }
-</div>
-```markdown
-Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Heading with `<inline code snippet>` in it.
-```
 
 ---
 
-## Syntax highlighted code blocks
+## Docker-compose versão 3
 
-Use Jekyll's built-in syntax highlighting with Rouge for code blocks by using three backticks, followed by the language name:
+Aqui segue um `< compose >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes, verifique se é isto que deseja também.
 
 <div class="code-example" markdown="1">
 ```docker
@@ -58,7 +43,7 @@ services:
     volumes:
       - aguas_db:/var/lib/mysql
     ports:
-      - 13304:3306
+      - 10000:3306
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: senhamysqlroot
@@ -69,7 +54,7 @@ services:
   wordpress:
     image: wordpress:latest
     #ports:
-    #  - 8090:80
+    #  - 8000:80
     expose:
       - 80
     depends_on:
@@ -86,6 +71,9 @@ services:
     volumes:
       - aguas_dados:/var/www/html
 ```
+
+
+
 </div>
 {% highlight markdown %}
 ```js
@@ -98,3 +86,19 @@ var fun = function lang(l) {
 {% endhighlight %}
 
 ---
+
+## Inline code
+
+Code can be rendered inline by wrapping it in single back ticks.
+
+<div class="code-example" markdown="1">
+Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Heading with `<inline code snippet>` in it.
+{: .no_toc }
+</div>
+```markdown
+Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Heading with `<inline code snippet>` in it.
+```
