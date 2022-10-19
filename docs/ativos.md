@@ -23,7 +23,7 @@ Aqui temos um resumo dos recursos de infra utilizados:
 
 - Hospedagem compartilhada, quando necessário, gratuita e oferecida pela **Cria Corpo**
 
-- 2 máquinas com créditos *Always Free*, na **Oracle**
+- Créditos *Always Free*, na **Oracle**, divididos em 2 máquinas
 
 - 1 VPS na **Contabo**, pago pelos professores *Cristiano Andreazza* (Itu/SP) E *Humberto Vital* (Porto Feliz/SP)
 
