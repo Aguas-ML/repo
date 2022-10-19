@@ -23,19 +23,69 @@ Aqui temos um resumo dos recursos de infra utilizados:
 
 - 2 máquinas com créditos *Always Free*, na **Oracle**
 
-- 1 VPS na **Contabo**, contratado pelos professores *Cristiano Andreazza* (Itu/SP) E *Humberto Vital* (Porto Feliz/SP)
+- 1 VPS na **Contabo**, pago pelos professores *Cristiano Andreazza* (Itu/SP) E *Humberto Vital* (Porto Feliz/SP)
 
-- 1 VPS na **Contabo** e 1 VPS na **OVH**, contratado pelo *Carlos Diego* da rede <a href="https://nas.aguas.ml/cdiego-hwn" target="_blank">**Harmony with Nature UN**</a>
+- 1 VPS na **Contabo**, pago pelo *Rafael Ferraz* em nome dos projetos <a href="https://jornalistainclusivo.com" target="_blank">Jornalista Inclusivo</a> e <a href="https://pcd.dataverso.org" target="_blank">Dataverso PcD</a>
+
+- 1 VPS na **OVH**, pago pelo *Carlos Diego* da rede <a href="https://nas.aguas.ml/cdiego-hwn" target="_blank">**Harmony with Nature UN**</a> em nome da <a href>
 
 - 1 conta <a href="https://kobotoolbox.org" target="_blank">KoboToolBox**</a>, providenciada pela UN OCHA
 
 
 
 
-### Inventário de aplicativos
-Aqui estão os aplicativos que estão disponíveis para nossa comunidade.
+### Inventário open-source em uso
+Aqui estão os principais "aplicativos" open-source que estão disponíveis, e utilizados em atividades, para nossa comunidade, por ordem alfabética.
+
+Quase todos de livre acesso, alguns restritos para quem entra em contato.
+
+Adminer
+Bookstack
+DNS
+Docker
+Etherpad-Lite
+farmOS
+Fresh RSS
+Ghost
+Gitbook
+Github
+Globaleaks
+Humhub
+HTML5
+KoboToolBox
+Leantime
+Libretime
+LibraryBox
+Metabase
+Mattermost
+Mediawiki
+MonicaHQ
+Nextcloud
+NocoDB
+OJS 3
+OpenStreetMap
+Piratebox
+Portainer
+PHPMyAdmin
+QR Coder
+Rede social
+RSS Bridge
+RStudio Server com Neo4J
+Uptime-kuma
+WikiJS
+Wordpress
+YOURLS
 
 
 
-### Com quem podemos conversar
+
+### Com quem podemos conversar tecnicamente
+Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre
+
+- Apoiadores da rede <a href="https://pacha.men" target="_blank">PachaMen</a>
+- Emerson Rocha da <a href="https://etica.ai" target="_blank">Etica AI</a>
+- Guto do movimento <a href="https://aguasdogandarela.org.br" target="_blank">Águas do Gandarela</a>
+- Turma da <a href="https://baiahacker.space" target="_blank">Baia Hacker Space
+- Grupos de zap da <a href="https://portorural.com.br" target="_blank">Porto Rural</a>
+
 {: .fs-6 .fw-300 }
