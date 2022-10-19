@@ -36,7 +36,7 @@ Aqui temos um resumo dos recursos de infra utilizados:
 
 
 
-### Inventário open-source em uso
+### Inventário *Open-source* em uso
 Aqui estão os principais "aplicativos" open-source que estão disponíveis, e utilizados em atividades, para nossa comunidade, por ordem alfabética.
 
 Quase todos de livre acesso, alguns restritos para quem entra em contato.
