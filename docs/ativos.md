@@ -80,12 +80,15 @@ YOURLS
 
 
 ### Com quem podemos conversar tecnicamente
-Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre
+Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre. Tb em ordem alfabética.
 
 - Apoiadores da rede <a href="https://pacha.men" target="_blank">PachaMen</a>
 - Emerson Rocha da <a href="https://etica.ai" target="_blank">Etica AI</a>
-- Guto do movimento <a href="https://aguasdogandarela.org.br" target="_blank">Águas do Gandarela</a>
-- Turma da <a href="https://baiahacker.space" target="_blank">Baia Hacker Space
+- Escritório <a href="https//alcarazebigatto target="_blank">Alcaraz e Bigatto</a>, *pro bono* para bangs inomináveis
 - Grupos de zap da <a href="https://portorural.com.br" target="_blank">Porto Rural</a>
+- Guto do Movimento <a href="https://aguasdogandarela.org.br" target="_blank">Águas do Gandarela</a>
+- Pedro Belasco do <a href="https://pt-br.facebook.com/cafe.reparo/" target="_blank">Café Reparo</a>
+- Turma da <a href="https://baiahacker.space" target="_blank">Baia Hacker Space</a>
+
 
 {: .fs-6 .fw-300 }
