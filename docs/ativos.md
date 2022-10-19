@@ -91,5 +91,8 @@ Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre. Tb
 - Guto do Movimento <a href="https://aguasdogandarela.org.br" target="_blank">Águas do Gandarela</a>
 - Pedro Belasco do <a href="https://pt-br.facebook.com/cafe.reparo/" target="_blank">Café Reparo</a>
 - Turma da <a href="https://baiahacker.space" target="_blank">Baia Hacker Space</a>
+- <a href="https://entrenostodos.wordpress.com/sinapse/trajetoria-e-curriculo" target="_blank">Vivianne Amaral</a> que é do mundo
+
+
 
 
