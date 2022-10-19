@@ -10,6 +10,8 @@ permalink: /docs/ativos
 
 Para ser fácil visualizar os ativos de nossa estrutura, aqui ficam listas e possibilidades
 
+{: .fs-6 .fw-300 }
+
 ### Inventário em Host
 Aqui temos um resumo dos recursos de infra utilizados:
 
@@ -91,4 +93,3 @@ Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre. Tb
 - Turma da <a href="https://baiahacker.space" target="_blank">Baia Hacker Space</a>
 
 
-{: .fs-6 .fw-300 }
