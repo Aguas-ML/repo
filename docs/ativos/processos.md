@@ -21,5 +21,6 @@ Em ordem alfabética
 - <a href="https://culturaporto.org.br/carta-de-porto-feliz/" target="_blank">Cultura Porto</a>
 - <a href="https://pcd.dataverso.org" target="_blank">Dataverso PcD</a>
 - <a href="https://jornalistainclusivo.com" target="_blank">Jornalista Inclusivo</a>
+- <a href="https://pacha.men" target="_blank">PachaMen</a>
 - <a href="https://portorural.com.br" target="_blank">Porto Rural</a>
 
