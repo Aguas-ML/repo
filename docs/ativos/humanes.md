@@ -6,8 +6,8 @@ parent: Ativos disponíveis
 permalink: /docs/ativos/humanes
 ---
 
-# Com quem podemos conversar tecnicamente
-Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre.
+# Com quem podemos conversar 
+Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre. 
 
 
 {: .important }
@@ -19,6 +19,7 @@ Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre.
 - Escritório <a href="https//alcarazebigatto.com" target="_blank">Alcaraz e Bigatto</a>, *pro bono* para bangs inomináveis
 - Grupos de zap e estruturas da <a href="https://portorural.com.br" target="_blank">Porto Rural</a>
 - Guto do Movimento <a href="https://aguasdogandarela.org.br" target="_blank">Águas do Gandarela</a>
+- Maria Emília da <a href="https://cocolunar.com" target="_blank">Coco Lunar</a>
 - Pedro Belasco do <a href="https://pt-br.facebook.com/cafe.reparo/" target="_blank">Café Reparo</a>
 - Rede de Apoio e estruturas da <a href="https://caminhodasaguas.org.br" target="_blank">Caminho das Águas</a>
 - Turma da <a href="https://baiahacker.space" target="_blank">Baia Hacker Space</a>
