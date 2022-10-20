@@ -7,9 +7,9 @@ permalink: /docs/ativos/infra
 ---
 
 
-# Infra-estrutura digital disponível na Rede de Apoio
+# Infra-estrutura digital 
 
-Para ser fácil visualizar os ativos de nossa estrutura, aqui ficam listas e possibilidades
+Para ser fácil visualizar os ativos de nossa estrutura disponível na **Rede de Apoio**, aqui ficam listas e possibilidades
 
 {: .fs-6 .fw-300 }
 
