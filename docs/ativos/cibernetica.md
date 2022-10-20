@@ -7,7 +7,9 @@ permalink: /docs/ativos/cibernetica
 ---
 
 # Inventário *Open-source* em uso
-Aqui estão os principais "aplicativos" open-source que estão disponíveis, e utilizados em atividades, para nossa comunidade.
+Aqui estão os principais motivos de tudo isso, graças à comunidade *open-source* tornando códigos abertos uma realidade.
+
+Listamos aquilo que está disponível e é utilizado em atividades de nossa comunidade.
 
 {: .note-title }
 > Lists em ordem alfabética.
