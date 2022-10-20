@@ -14,6 +14,7 @@ Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre.
 > Também em ordem alfabética.
 
 - Apoiadores da rede <a href="https://pacha.men" target="_blank">PachaMen</a>
+- Carlos Diego, cientista holístico da rede <a href="https://nas.aguas.ml/cdiego-hwn" target="_blank">Harmony with Nature UN</a>
 - Cledir Mendes da <a href="https://www.instagram.com/pro_azul_ambiental/" target="_blank">ONG Pro Azul</a>
 - Emerson Rocha da <a href="https://etica.ai" target="_blank">Etica AI</a>
 - Escritório <a href="https//alcarazebigatto.com" target="_blank">Alcaraz e Bigatto</a>, *pro bono* para bangs inomináveis
