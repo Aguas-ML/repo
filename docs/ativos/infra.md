@@ -31,7 +31,7 @@ Para ser fácil visualizar os ativos de nossa estrutura disponível na **Rede de
 
 - 1 VPS na **Contabo**, pago pelo jornalista *Rafael Ferraz*
 
-- 1 VPS na **OVH**, pago pelo cientista social *Carlos Diego* da rede <a href="https://nas.aguas.ml/cdiego-hwn" target="_blank">**Harmony with Nature UN**</a> em nome da <a href>
+- 1 VPS na **OVH**, pago pelo cientista social *Carlos Diego*
 
 - 1 conta <a href="https://kobotoolbox.org" target="_blank">KoboToolBox**</a>, providenciada pela UN OCHA
 
