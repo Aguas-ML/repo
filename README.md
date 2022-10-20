@@ -1,2 +1,2 @@
 # repo
-Repo fo AguasML
+Repo for AguasML
