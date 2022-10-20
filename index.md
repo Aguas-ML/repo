@@ -9,7 +9,7 @@ permalink: /
 # Foco nas Águas e nos Seres
 {: .fs-9 }
 
-Colaboramos com o desenvolvimento de tecnologias livres e segurança digital em organizações, movimentos e grupos sociais no Brasil e América Latina, a fim de gerar processos de soberania e autonomia tecnológica.
+Desde 2016 colaborando com o desenvolvimento de tecnologias livres e segurança digital em organizações, movimentos e grupos sociais no Brasil e América Latina, a fim de gerar processos de soberania e autonomia tecnológica.
 {: .fs-6 .fw-300 }
 
 [Inventário](/docs/ativos){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Veja nossos serviços](https://graficos.aguas.ml){: .btn .fs-5 .mb-4 .mb-md-0 }
