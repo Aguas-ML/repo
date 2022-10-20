@@ -5,6 +5,8 @@ nav_order: 3
 has_children: true
 permalink: /docs/ativos
 ---
+
+# Ativos disponíveis
 {: .fs-9 }
 
 Aqui temos uma forma de apresentar os recursos disponíveis na Plataforma Águas Mídia Livre 
