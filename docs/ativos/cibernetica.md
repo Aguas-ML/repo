@@ -6,10 +6,11 @@ parent: Ativos disponíveis
 permalink: /docs/ativos/cibernetica
 ---
 
+# Inventário *Open-source* em uso
+Aqui estão os principais "aplicativos" open-source que estão disponíveis, e utilizados em atividades, para nossa comunidade.
 
 {: .note-title }
-> Inventário *Open-source* em uso
-> Aqui estão os principais "aplicativos" open-source que estão disponíveis, e utilizados em atividades, para nossa comunidade, por ordem alfabética.
+> Lists em ordem alfabética.
 
 Quase todos de livre acesso, alguns restritos para quem entra em contato.
 
