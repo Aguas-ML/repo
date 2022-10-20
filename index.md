@@ -18,8 +18,8 @@ Colaboramos com o desenvolvimento de tecnologias livres e segurança digital em 
 
 ## Serviços digitais
 
-Nossos serviços digitais são ações que compõem um conjunto de ferramentas capazes de dar suporte às nossas capacidades adaptativas cibernáticas, preservando o possível da liberdade e privacidade da pessoa humana.
+Nossos serviços digitais são ações que compõem um conjunto de ferramentas capazes de dar suporte às nossas capacidades adaptativas cibernéticas, preservando o possível da liberdade e privacidade da pessoa humana e seus grupos.
 
 A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras tudo aquilo que une a natureza, as tecnologias e as pessoas.
 
-Os serviços digitais da plataforma ÁguasML são gratuitos, de código aberto, seguros e quase sempre de livre acesso.
+Os serviços digitais da plataforma ÁguasML são gratuitos, de código aberto, seguros e quase sempre de livre acesso, como foco irrestrito na sobrevivência das espécies.
