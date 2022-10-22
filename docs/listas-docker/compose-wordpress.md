@@ -23,10 +23,10 @@ nav_order: 2
 # Info básica
 *WordPress** é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.
 
-**Link:** https://wordpress.org
+**Link** do [site do WP](https://wordpress.org)
 
 # Docker-compose para Wordpress
-Aqui segue um `< compose >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes, verifique se é isto que deseja também.
+Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes, verifique se é isto que deseja também.
 
 <div class="code-example" markdown="1">
 
@@ -81,8 +81,9 @@ services:
 
 <div class="code-example" markdown="2">
 
-### Variáveis de ambiente
+## Variáveis de ambiente
 Aqui estão as variáveis de ambiente que nós utilizamos, para um uso saudável com arquivo `.env`
+
 
 ```
 MYSQL_ROOT_PASSWORD=senhaforte
