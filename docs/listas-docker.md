@@ -7,6 +7,7 @@ permalink: /docs/listas-docker
 ---
 
 # Anotações docker
+{: .fs-9 }
 
 Para ser fácil replicar alguns itens de nossa estrutura, aqui ficam alguns bakups de configurações
 {: .fs-6 .fw-300 }

@@ -17,6 +17,8 @@ nav_order: 9
 ---
 
 # Info básica
+{: .fs-9 }
+
 **MariaDB** é um sistema de gerenciamento de banco de dados que surgiu como fork do MySQL.
 
 **Link** do [site do MariaDB](https://mariadb.org)

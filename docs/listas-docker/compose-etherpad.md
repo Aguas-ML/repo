@@ -17,6 +17,8 @@ nav_order: 4
 ---
 
 # Info básica
+{: .fs-9 }
+
 **Etherpad-Lite** é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.
 
 **Link** do [site do Etherpad-Lite](https://etherpad.org/)

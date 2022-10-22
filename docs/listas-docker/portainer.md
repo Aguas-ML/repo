@@ -17,6 +17,8 @@ nav_order: 15
 ---
 
 # Info básica
+{: .fs-9 }
+
 **Portainer** é uma aplicação para gerenciar seus containers.
 
 **Link** do [site do Portainer](https://www.portainer.io/)

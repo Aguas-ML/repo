@@ -17,6 +17,8 @@ nav_order: 11
 ---
 
 # Info básica
+{: .fs-9 }
+
 **Polr** é um encurtador de links rápido, moderno e de código aberto. Ele permite que você hospede seu próprio encurtador de URL, marque seus URLs e obtenha controle sobre seus dados. Também é licenciado pela GPLv2+.
 
 **Link** do [site do Polr](https://polrproject.org/)
