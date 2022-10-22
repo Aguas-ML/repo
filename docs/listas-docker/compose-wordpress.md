@@ -17,6 +17,8 @@ nav_order: 12
 ---
 
 # Info básica
+{: .fs-9 }
+
 **WordPress** é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.
 
 **Link** do [site do WP](https://wordpress.org)

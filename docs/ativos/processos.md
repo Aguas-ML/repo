@@ -7,7 +7,10 @@ permalink: /docs/ativos/processos
 ---
 
 # Processos ativos na plataforma
+{: .fs-9 }
+
 Listando algumas atividades que podem ser públicas
+{: .fs-6 .fw-300 }
 
 ## Projetos diretamente envolvidos
 Em ordem alfabética

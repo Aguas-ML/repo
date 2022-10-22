@@ -17,6 +17,8 @@ nav_order: 6
 ---
 
 # Info básica
+{: .fs-9 }
+
 **farmOS** é um um aplicativo para gerenciamento, planejamento e manutenção de registros de propriedades rurais.
 
 **Link** do [site do farmOS](https://farmos.org)

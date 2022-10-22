@@ -6,9 +6,11 @@ nav_order: 3
 permalink: /docs/ativos/humanes
 ---
 
-# Com quem podemos conversar 
-Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre. 
+# Com quem podemos conversar
+{: .fs-9 }
 
+Pessoas e grupos que estão disponíveis para o que der e vier, desde sempre. 
+{: .fs-6 .fw-300 }
 
 {: .important }
 > Também em ordem alfabética.

@@ -17,6 +17,8 @@ nav_order: 2
 ---
 
 # Info básica
+{: .fs-9 }
+
 **Adminer** é uma ferramenta para gerenciamento de conteúdo em bancos de dados. Ele suporta nativamente MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch e MongoDB.
 
 **Link** do [site do Adminer](https://adminer.org/)
