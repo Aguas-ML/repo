@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Compose para Wordpress
-parent: Notas para docker
+title: Stack para Wordpress
+parent: Notas Docker-compose
 has_children: true
 nav_order: 2
 ---

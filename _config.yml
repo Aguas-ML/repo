@@ -1,6 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 
-title: Repo ÁguasML
+title: Águas Mídia Livre
 description: bem comum em mídia livre
 #baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://repo.aguas.ml" # the base hostname & protocol for your site, e.g. http://example.com
@@ -49,7 +49,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Serviços":
-    - "https://graficos.aguas.ml/projetos"
+    - "https://graficos.aguas.ml/servicos"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -58,7 +58,7 @@ aux_links_new_tab: true
 nav_external_links:
   - title: Abra um pad
     url: https://pad.aguas.ml
-  - title: Entre no chat
+  - title: Contato via chat
     url: https://chat.aguas.ml
 
 # Footer content
@@ -70,7 +70,7 @@ back_to_top_text: "Subir"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+last_edit_time_format: "%b %e %Y em %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 
 # Footer "Edit this page on GitHub" link text
