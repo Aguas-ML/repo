@@ -3,7 +3,7 @@ layout: default
 title: Stack para Wordpress
 parent: Notas Docker-compose
 has_children: true
-nav_order: 2
+nav_order: 7
 ---
 
 # Compose para Wordpress
@@ -26,7 +26,7 @@ nav_order: 2
 ---
 
 # Docker-compose para Wordpress
-Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes persistentes, verifique se é isto que deseja também.
+Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes persistentes, verifique se é isto que você deseja também.
 
 <div class="code-example" markdown="1">
 

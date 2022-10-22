@@ -3,7 +3,7 @@ layout: default
 title: Deploy do Portainer
 parent: Notas Docker-compose
 has_children: true
-nav_order: 3
+nav_order: 9
 ---
 
 # Deploy do Portainer

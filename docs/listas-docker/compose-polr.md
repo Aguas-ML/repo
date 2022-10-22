@@ -3,7 +3,7 @@ layout: default
 title: Stack para Polr
 parent: Notas Docker-compose
 has_children: true
-nav_order: 3
+nav_order: 6
 ---
 
 # Compose para Polr
@@ -26,7 +26,7 @@ nav_order: 3
 
 # Docker-compose Polr
 
-Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Polr e MariaDB. Você pode perceber que criamos três volumes, verifique se é isto que deseja também.
+Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Polr e MariaDB. Você pode perceber que criamos três volumes, verifique se é isto que você deseja também.
 
 <div class="code-example" markdown="1">
 
