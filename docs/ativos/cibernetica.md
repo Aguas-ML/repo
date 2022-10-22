@@ -9,7 +9,7 @@ permalink: /docs/ativos/cibernetica
 # Inventário *Open-source* em uso
 {: .fs-9 }
 
-Aqui estão os principais motivos de tudo isso, graças à comunidade *open-source* tornando códigos abertos uma realidade.
+Aqui estão os principais motivos de tudo isso, graças à comunidade *open-source* tornando códigos uma força da realidade.
 {: .fs-6 .fw-300 }
 
 Listamos aquilo que está disponível e é utilizado em atividades de nossa comunidade.
