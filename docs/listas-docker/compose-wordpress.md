@@ -17,13 +17,13 @@ nav_order: 2
 
 ---
 
-
----
-
 # Info básica
-*WordPress** é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.
+**WordPress** é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.
 
 **Link** do [site do WP](https://wordpress.org)
+
+
+---
 
 # Docker-compose para Wordpress
 Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes, verifique se é isto que deseja também.
