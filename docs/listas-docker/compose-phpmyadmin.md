@@ -63,7 +63,6 @@ services:
 ## Variáveis de ambiente
 Aqui estão as variáveis de ambiente que nós utilizamos, para um uso saudável com arquivo `.env`
 
-<div class="code-example" markdown="2">
 
 ```
 MYSQL_ROOT_PASSWORD=
@@ -80,5 +79,3 @@ PMA_PMADB=
 VIRTUAL_HOST=
 UPLOAD_LIMIT=196M
 ```
-
-</div>
