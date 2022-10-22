@@ -2,7 +2,7 @@
 layout: default
 title: Humanes
 nav_order: 3
-parent: Ativos disponíveis
+parent: Inventário de ativos
 permalink: /docs/ativos/humanes
 ---
 
