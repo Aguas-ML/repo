@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stack para Polr
-parent: Notas para docker
+parent: Notas Docker-compose
 has_children: true
 nav_order: 3
 ---
