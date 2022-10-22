@@ -84,7 +84,7 @@ services:
 ## Variáveis de ambiente
 Aqui estão as variáveis de ambiente que nós utilizamos, para um uso saudável com arquivo `.env`
 
-<div class="code-example" markdown="2">
+<div class="code-example" markdown="1">
 
 ```
 MYSQL_ROOT_PASSWORD=senhaforte
