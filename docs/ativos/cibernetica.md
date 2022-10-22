@@ -9,15 +9,15 @@ permalink: /docs/ativos/cibernetica
 # Inventário *Open-source* em uso
 {: .fs-9 }
 
-Aqui estão os principais motivos de tudo isso, graças à comunidade *open-source* tornando códigos abertos uma realidade.
+Aqui estão os principais motivos de tudo isso, graças à comunidade *open-source* tornando códigos uma força da realidade.
 {: .fs-6 .fw-300 }
 
 Listamos aquilo que está disponível e é utilizado em atividades de nossa comunidade.
 
 {: .note-title }
-> Lists em ordem alfabética.
+> Quase todos de livre acesso, alguns restritos com senha, quem quiser pode entrar em contato.
 
-Quase todos de livre acesso, alguns restritos para quem entra em contato.
+Lista em ordem alfabética.
 
 - Adminer
 - Bookstack
