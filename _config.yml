@@ -74,7 +74,7 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
-nav_sort: case_sensitive
+#nav_sort: case_sensitive
 
 # External navigation links
 nav_external_links:
@@ -94,9 +94,7 @@ back_to_top_text: "Subir"
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y em %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-footer_content: "Com amor por Pachamama. Um site <a href=\"https://caminhodasaguas.org.br/\">Caminho das Águas</a>"
-
-
+footer_content: "Um site <a href=\"https://caminhodasaguas.org.br/\">Caminho das Águas</a>, com amor por Pachamama."
 
 # Footer "Edit this page on GitHub" link text
 #gh_edit_link: true # show or hide edit this page link
@@ -108,7 +106,6 @@ footer_content: "Com amor por Pachamama. Um site <a href=\"https://caminhodasagu
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: nil
-
 
 callouts_level: quiet # or loud
 callouts:
