@@ -24,9 +24,9 @@ nav_order: 3
 **Polr** é um encurtador de links rápido, moderno e de código aberto. Ele permite que você hospede seu próprio encurtador de URL, marque seus URLs e obtenha controle sobre seus dados. Também é licenciado pela GPLv2+.
 
 **Link** do [site do Polr](https://polrproject.org/)
-## Docker-compose versão 3
+# Docker-compose Polr
 
-Aqui segue um `< compose >` para que você possa levantar uma stack de Polr e MariaDB. Você pode perceber que criamos três volumes, verifique se é isto que deseja também.
+Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Polr e MariaDB. Você pode perceber que criamos três volumes, verifique se é isto que deseja também.
 
 <div class="code-example" markdown="1">
 
