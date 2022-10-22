@@ -2,7 +2,7 @@
 layout: default
 title: Tecnologias
 nav_order: 2
-parent: Ativos disponíveis
+parent: Inventário de ativos
 permalink: /docs/ativos/cibernetica
 ---
 
