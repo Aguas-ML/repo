@@ -115,16 +115,16 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    title: Importante
     color: blue
   new:
-    title: New
+    title: Novo
     color: green
   note:
-    title: Note
+    title: Nota
     color: purple
   warning:
-    title: Warning
+    title: Aviso
     color: red
 
 # Google Analytics Tracking (optional)
