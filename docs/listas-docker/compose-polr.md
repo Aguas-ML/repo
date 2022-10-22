@@ -26,19 +26,20 @@ Aqui segue um `< compose >` para que você possa levantar uma stack de Polr e Ma
 ## Docker-compose versão 3
 
 <div class="code-example" markdown="1">
-```docker
+
+```
 version: '3.3'
-#####
+
 networks:
   default:
     external:
       name: aguas-proxy
-#####
+
 volumes:
   data:
   env:
   ses:
-#####
+
 services:
   mariadb:
     image: mariadb
@@ -75,15 +76,16 @@ services:
     volumes:
       - env:/var/www/.env
       - ses:/var/session
-#####
 ```
+
 </div>
 
 ## Variáveis de ambiente
 Aqui estão as variáveis de ambiente que nós utilizamos.
 
-<div class="code-example" markdown="1">
-```env
+<div class="code-example" markdown="2">
+
+```
 DB_HOST=mariadb
 DB_PORT=3306
 DB_DATABASE=db
