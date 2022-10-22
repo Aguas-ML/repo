@@ -82,13 +82,11 @@ services:
     ports:
       - "9001:9001"
 ```
-
 </div>
 
 ## Variáveis de ambiente
 Aqui estão as variáveis de ambiente que nós utilizamos, para um uso saudável com arquivo `.env`
 
-<div class="code-example" markdown="2">
 
 ```
 TITLE=Pad Aguas
@@ -117,5 +115,3 @@ NODE_ENV=production
 COOKIE_SAME_SITE="Lax"
 SHOW_SETTINGS_IN_ADMIN_PAGE=true
 ```
-
-</div>
