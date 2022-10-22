@@ -2,7 +2,6 @@
 layout: default
 title: Stack para MariaDB
 parent: Notas Docker-compose
-has_children: true
 nav_order: 9
 ---
 

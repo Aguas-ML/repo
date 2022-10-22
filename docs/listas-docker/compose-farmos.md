@@ -2,7 +2,6 @@
 layout: default
 title: Stack para farmOS
 parent: Notas Docker-compose
-has_children: true
 nav_order: 6
 ---
 
