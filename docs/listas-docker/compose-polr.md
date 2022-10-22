@@ -3,7 +3,7 @@ layout: default
 title: Stack para Polr
 parent: Notas Docker-compose
 has_children: true
-nav_order: 6
+nav_order: 8
 ---
 
 # Compose para Polr
@@ -61,7 +61,7 @@ services:
     image: ajanvier/polr
     container_name: polr
     ports:
-      - '8084:80'
+      - '8000:80'
     environment:
       DB_HOST: ${DB_HOST}
       DB_PORT: ${DB_PORT}
@@ -94,18 +94,22 @@ DB_PORT=3306
 DB_DATABASE=db
 DB_USERNAME=dbuser
 DB_PASSWORD=senhaDB
+
 ADMIN_USERNAME=admin
 ADMIN_PASSWORD=senhadmin
 ADMIN_EMAIL=seu@amil
+
 APP_NAME=
 APP_PROTOCOL=https://
 APP_ADDRESS=seu.dominio.org
+
 POLR_ALLOW_ACCT_CREATION=false
 POLR_ACCT_ACTIVATION=false
 POLR_ACCT_CREATION_RECAPTCHA=true
 POLR_RECAPTCHA_SITE_KEY=
 POLR_RECAPTCHA_SECRET=
 POLR_BASE=62
+
 SETTING_PUBLIC_INTERFACE=true
 SETTING_SHORTEN_PERMISSION=true
 SETTING_AUTO_API=false
