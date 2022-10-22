@@ -10,3 +10,6 @@ permalink: /docs/listas-docker
 
 Para ser fácil replicar alguns itens de nossa estrutura, aqui ficam alguns bakups de configurações
 {: .fs-6 .fw-300 }
+
+Esperamos que você já manje de `docker` e `docker-compose`
+
