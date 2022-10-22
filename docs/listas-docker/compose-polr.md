@@ -74,8 +74,6 @@ services:
     volumes:
       - env:/var/www/.env
       - ses:/var/session
-    networks:
-      - aguasproxy
 #####
 ```
 </div>
@@ -86,14 +84,14 @@ Aqui estão as variáveis de ambiente que nós utilizamos.
 DB_HOST=mariadb
 DB_PORT=3306
 DB_DATABASE=db
-DB_USERNAME=db
-DB_PASSWORD=senha
+DB_USERNAME=dbuser
+DB_PASSWORD=senhaDB
 ADMIN_USERNAME=admin
 ADMIN_PASSWORD=senhadmin
 ADMIN_EMAIL=seu@amil
-APP_NAME=Vai Aguas!
+APP_NAME=
 APP_PROTOCOL=https://
-APP_ADDRESS=seu.dominio.com
+APP_ADDRESS=seu.dominio.org
 POLR_ALLOW_ACCT_CREATION=false
 POLR_ACCT_ACTIVATION=false
 POLR_ACCT_CREATION_RECAPTCHA=true
@@ -105,5 +103,10 @@ SETTING_SHORTEN_PERMISSION=true
 SETTING_AUTO_API=false
 SETTING_PSEUDORANDOM_ENDING=true
 SETTING_ADV_ANALYTICS=true
+
+MYSQL_ROOT_PASSWORD=senhaforte
+MYSQL_DATABASE=db
+MYSQL_USER=dbuser
+MYSQL_PASSWORD=senhaDB
 ```
 </div>
