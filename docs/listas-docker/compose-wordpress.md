@@ -21,13 +21,16 @@ nav_order: 2
 ---
 
 # Info básica
+*WordPress** é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.
 
+**Link:** https://wordpress.org
+
+# Docker-compose para Wordpress
 Aqui segue um `< compose >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes, verifique se é isto que deseja também.
 
-## Docker-compose versão 3
-
 <div class="code-example" markdown="1">
-```docker
+
+```
 version: "3"
 
 networks:
@@ -36,14 +39,14 @@ networks:
       name: aguas-proxy
 
 volumes:
-  aguas_db:
-  aguas_dados:
+  aguas_wpdb:
+  aguas_wpdados:
   
 services:
   mysql:
     image: mysql:5.7
     volumes:
-      - aguas_db:/var/lib/mysql
+      - aguas_wpdb:/var/lib/mysql
     ports:
       - 10000:3306
     restart: always
@@ -63,44 +66,37 @@ services:
       - mysql
     restart: always
     environment:
-      VIRTUAL_HOST: aguas.ml
-      LETSENCRYPT_HOST: aguas.ml
-      LETSENCRYPT_EMAIL: email@aguas.ml
-      WORDPRESS_DB_HOST: mysql:3306
-      WORDPRESS_DB_USER: aguas_wp
-      WORDPRESS_DB_PASSWORD: senhamysql
-      WORDPRESS_DB_NAME: aguas_db
+      VIRTUAL_HOST: ${VIRTUAL_HOST}
+      LETSENCRYPT_HOST: ${LETSENCRYPT_HOST}
+      LETSENCRYPT_EMAIL: ${LETSENCRYPT_EMAIL}
+      WORDPRESS_DB_HOST: ${WORDPRESS_DB_HOST}
+      WORDPRESS_DB_NAME: ${WORDPRESS_DB_NAME}
+      WORDPRESS_DB_USER: ${WORDPRESS_DB_USER}
+      WORDPRESS_DB_PASSWORD: ${WORDPRESS_DB_PASSWORD}
     volumes:
-      - aguas_dados:/var/www/html
+      - aguas_wpdados:/var/www/html
 ```
-
-
 
 </div>
-{% highlight markdown %}
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+
+<div class="code-example" markdown="2">
+
+### Variáveis de ambiente
+Aqui estão as variáveis de ambiente que nós utilizamos, para um uso saudável com arquivo `.env`
+
 ```
-{% endhighlight %}
+MYSQL_ROOT_PASSWORD=senhaforte
+MYSQL_DATABASE=db
+MYSQL_USER=dbuser
+MYSQL_PASSWORD=senhaDB
 
----
+WORDPRESS_DB_HOST=mysql
+WORDPRESS_DB_NAME=db
+WORDPRESS_DB_USER=dbuser
+WORDPRESS_DB_PASSWORD=senhaDB
 
-## Inline code
-
-Code can be rendered inline by wrapping it in single back ticks.
-
-<div class="code-example" markdown="1">
-Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Heading with `<inline code snippet>` in it.
-{: .no_toc }
+VIRTUAL_HOST=seudominio.org
+LETSENCRYPT_HOST=seudominio.org
+LETSENCRYPT_EMAIL=contato@seudominio.org
+```
 </div>
-```markdown
-Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Heading with `<inline code snippet>` in it.
-```
