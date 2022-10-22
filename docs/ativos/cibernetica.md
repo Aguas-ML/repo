@@ -15,9 +15,9 @@ Aqui estão os principais motivos de tudo isso, graças à comunidade *open-sour
 Listamos aquilo que está disponível e é utilizado em atividades de nossa comunidade.
 
 {: .note-title }
-> Lists em ordem alfabética.
+> Quase todos de livre acesso, alguns restritos para quem entra em contato.
 
-Quase todos de livre acesso, alguns restritos para quem entra em contato.
+Lista em ordem alfabética.
 
 - Adminer
 - Bookstack
