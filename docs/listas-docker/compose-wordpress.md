@@ -26,7 +26,7 @@ nav_order: 2
 ---
 
 # Docker-compose para Wordpress
-Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes, verifique se é isto que deseja também.
+Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes persistentes, verifique se é isto que deseja também.
 
 <div class="code-example" markdown="1">
 
@@ -79,11 +79,12 @@ services:
 
 </div>
 
-<div class="code-example" markdown="2">
+---
 
 ## Variáveis de ambiente
 Aqui estão as variáveis de ambiente que nós utilizamos, para um uso saudável com arquivo `.env`
 
+<div class="code-example" markdown="2">
 
 ```
 MYSQL_ROOT_PASSWORD=senhaforte
