@@ -21,7 +21,7 @@ Já fizemos várias tentativas para um registro das atividades.
 Um registro de sonhos deveria ser feito de forma coerente e agradável para todes entre o mundo social e o digital. Seriam registros aptos à pessoas que só usam 2 apps no celular e intercambiáveis com as pessoas aderentes ao DevOps e ChatOps.
 
 - tentativa moderninha no <a href="https://das.aguas.ml" target="_blank">Das Águas ML</a>, início em Jun2022
-- tentativa iniciada em 2017 no <a href="https://ciclos.aguas.ml" target="_blank">Ciclos ÁguasML</a>
+- registros iniciados em 2017 no <a href="https://ciclos.aguas.ml" target="_blank">Ciclos ÁguasML</a>
 
 
 

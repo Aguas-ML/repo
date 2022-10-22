@@ -26,7 +26,7 @@ nav_order: 9
 ---
 
 # Portainer em produção
-Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Porainer em produção. Você pode perceber que é preciso acesso `ssh` e ter sob controle o `docker` e o `docker-compose`. Verifique se é isto que você deseja também.
+Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de Portainer em **produção**. Você pode perceber que é preciso acesso `ssh` e ter sob controle o `docker` e o `docker-compose`. Verifique se é isto que você deseja também.
 
 
 <div class="code-example" markdown="1">

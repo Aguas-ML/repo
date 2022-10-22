@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stack para Wordpress
+title: Stack para farmOS
 parent: Notas Docker-compose
 has_children: true
 nav_order: 4
@@ -48,7 +48,7 @@ services:
     volumes:
       - websites:/opt/drupal/web/sites
     ports:
-      - '8010:80'
+      - '8080:80'
     networks:
       - proxy
 ```
