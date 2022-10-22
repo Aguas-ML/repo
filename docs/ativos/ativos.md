@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inventário de ativos
+title: Inventário
 nav_order: 3
 has_children: true
 permalink: /docs/ativos
