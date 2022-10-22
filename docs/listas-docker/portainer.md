@@ -3,7 +3,7 @@ layout: default
 title: Deploy do Portainer
 parent: Notas Docker-compose
 has_children: true
-nav_order: 3
+nav_order: 9
 ---
 
 # Deploy do Portainer
@@ -18,9 +18,9 @@ nav_order: 3
 ---
 
 # Info básica
-**Portainer** é um sistema livre e aberto de gestão de conteúdo para internet, baseado em PHP com banco de dados MySQL.
+**Portainer** é uma aplicação para gerenciar seus containers.
 
-**Link** do [site do Portainer](https://wordpress.org)
+**Link** do [site do Portainer](https://www.portainer.io/)
 
 
 ---

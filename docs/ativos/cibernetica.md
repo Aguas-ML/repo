@@ -34,16 +34,22 @@ Quase todos de livre acesso, alguns restritos para quem entra em contato.
 - Libretime
 - LibraryBox
 - Metabase
+- MariaDB
 - Mattermost
 - Mediawiki
 - MonicaHQ
+- mongoDB
+- MySQL
 - Nextcloud
 - NocoDB
 - OJS 3
 - OpenStreetMap
-- Piratebox
-- Portainer
+- Paperless-NG
 - PHPMyAdmin
+- Piratebox
+- Polr
+- Portainer
+- Postgree
 - QR Coder
 - Rede social
 - RSS Bridge
