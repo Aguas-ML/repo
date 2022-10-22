@@ -20,9 +20,11 @@ nav_order: 2
 
 ---
 
-## Docker-compose versão 3
+# Info básica
 
 Aqui segue um `< compose >` para que você possa levantar uma stack de Wordpress e MySQL. Você pode perceber que criamos dois volumes, verifique se é isto que deseja também.
+
+## Docker-compose versão 3
 
 <div class="code-example" markdown="1">
 ```docker

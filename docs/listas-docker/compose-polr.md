@@ -20,9 +20,10 @@ nav_order: 3
 
 ---
 
-## Docker-compose versão 3
-
+# Info básica
 Aqui segue um `< compose >` para que você possa levantar uma stack de Polr e MariaDB. Você pode perceber que criamos três volumes, verifique se é isto que deseja também.
+
+## Docker-compose versão 3
 
 <div class="code-example" markdown="1">
 ```docker
@@ -77,6 +78,8 @@ services:
 #####
 ```
 </div>
+
+## Variáveis de ambiente
 Aqui estão as variáveis de ambiente que nós utilizamos.
 
 <div class="code-example" markdown="1">
