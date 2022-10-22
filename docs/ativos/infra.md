@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Infra digital
+parent: Inventário
 nav_order: 1
-parent: Inventário de ativos
 permalink: /docs/ativos/infra
 ---
 

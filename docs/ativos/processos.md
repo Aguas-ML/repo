@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Processos
+parent: Inventário
 nav_order: 4
-parent: Inventário de ativos
 permalink: /docs/ativos/processos
 ---
 
