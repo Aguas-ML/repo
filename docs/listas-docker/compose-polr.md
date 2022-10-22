@@ -83,10 +83,11 @@ services:
 
 </div>
 
+
 ## Variáveis de ambiente
 Aqui estão as variáveis de ambiente que nós utilizamos, para um uso saudável com arquivo `.env`
 
-<div class="code-example" markdown="2">
+
 
 ```
 DB_HOST=mariadb
@@ -121,4 +122,4 @@ MYSQL_DATABASE=db
 MYSQL_USER=dbuser
 MYSQL_PASSWORD=senhaDB
 ```
-</div>
+

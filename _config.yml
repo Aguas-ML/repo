@@ -6,13 +6,33 @@ description: bem comum em mídia livre
 url: "https://repo.aguas.ml" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
-
+exclude:
+ # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+ # specific to the theme website:
+   - bin/
+   - lib/
+   - "*.gemspec"
+   - "*.gem"
+   - LICENSE.txt
+   - package.json
+   - package-lock.json
+   - Rakefile
+   - README.md
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
-  heading_level: 2
+  heading_level: 3
   # Maximum amount of previews per search result
   # Default: 3
   previews: 2
@@ -31,7 +51,7 @@ search:
   rel_url: true
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
-  button: false
+  button: true
 
 # To disable support for mermaid diagrams (https://mermaid-js.github.io/mermaid/),
 # comment out the `mermaid` and `version` keys below
@@ -48,18 +68,20 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Serviços":
-    - "https://graficos.aguas.ml/servicos"
+  "Contato via chat":
+    - "https://chat.aguas.ml"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
+
+nav_sort: case_sensitive
 
 # External navigation links
 nav_external_links:
   - title: Abra um pad
     url: https://pad.aguas.ml
-  - title: Contato via chat
-    url: https://chat.aguas.ml
+  - title: Serviços digitais
+    url: https://graficos.aguas.ml/servicos
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -72,6 +94,9 @@ back_to_top_text: "Subir"
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y em %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
+footer_content: "Com amor por Pachamama. Um site <a href=\"https://caminhodasaguas.org.br/\">Caminho das Águas</a>"
+
+
 
 # Footer "Edit this page on GitHub" link text
 #gh_edit_link: true # show or hide edit this page link
@@ -83,6 +108,24 @@ last_edit_time_format: "%b %e %Y em %I:%M %p" # uses ruby's time format: https:/
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: nil
+
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
