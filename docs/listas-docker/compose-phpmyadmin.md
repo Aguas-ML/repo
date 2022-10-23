@@ -26,7 +26,7 @@ nav_order: 10
 
 ---
 
-# Docker-compose para MariaDB
+# Docker-compose para PHPMyAdmin
 Aqui segue um `< docker-compose.yml >` para que você possa levantar uma stack de PHPMyAdmin. Você pode perceber que criamos um volume persistente e explicitamos um `healthcheck`, verifique se é isto que você deseja também.
 
 <div class="code-example" markdown="1">

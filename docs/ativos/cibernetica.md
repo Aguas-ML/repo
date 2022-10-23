@@ -22,6 +22,7 @@ Listamos aqui, em ordem alfabética, aquilo que está disponível e é utilizado
 - DNS
 - Docker
 - Etherpad-Lite
+- Ethibox
 - farmOS
 - Fresh RSS
 - Ghost
@@ -30,6 +31,7 @@ Listamos aqui, em ordem alfabética, aquilo que está disponível e é utilizado
 - Globaleaks
 - Humhub
 - HTML5
+- Jekyll
 - KoboToolBox
 - Leantime
 - Libretime
