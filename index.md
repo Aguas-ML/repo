@@ -19,6 +19,6 @@ Desde 2016 colaborando com o desenvolvimento de tecnologias livres e segurança 
 ## Serviços digitais
 A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras **tudo aquilo que une** a natureza, as tecnologias e as pessoas.
 
-Nossos serviços digitais são ações que compõem um conjunto de ferramentas capazes de dar suporte às nossas capacidades adaptativas cibernéticas, preservando o possível da liberdade e privacidade da pessoa humana e seus grupos.
+Nossos serviços digitais são ações que compõem um conjunto de ferramentas capazes de dar suporte às nossas capacidades adaptativas cibernéticas, preservando o possível da liberdade e privacidade da pessoa humana e seus grupos. Entendemos que, assim, estamos amparados nas culturas digitais do DevOPs, ChatOps e MLOps.
 
-Os serviços digitais da plataforma ÁguasML são **gratuitos**, de **código aberto**, **seguros** e quase sempre de livre acesso, como foco irrestrito na **sobrevivência das espécies**.
+Desta forma os serviços digitais da plataforma ÁguasML são **gratuitos**, de **código aberto**, **seguros** e quase sempre de livre acesso, como foco irrestrito na **sobrevivência das espécies**.
