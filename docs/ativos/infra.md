@@ -19,8 +19,9 @@ Para ser fácil visualizar os ativos de nossa estrutura disponível na **Rede de
 
 - Apoio e gratuidade com 200 créditos na <a href="https://greenhost.com" target="_blank">**GreenHost**</a> para projetos na Defesa de Direitos
     - 10 VPS´s Ubuntu/Debian e 1 tentativa eterna com StackSpin
-    - 32GB de RAM disponíveis e distribuídos
-    - 175GB de HD disponíveis e distribuídos
+    - 32GB de RAM disponíveis e distribuídas
+    - 19 *cores* disponíveis e distribuídos
+    - 175GB de HD disponível e distribuído
     - 16,25 créditos sobrando
 
 - Hospedagem compartilhada, quando necessário, gratuita e oferecida pela **Cria Corpo**
