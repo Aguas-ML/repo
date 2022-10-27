@@ -19,7 +19,7 @@ nav_order: 10
 # Info básica
 {: .fs-9 }
 
-**PHPMyAdmin** é um sistema de gerenciamento de banco de dados que surgiu como fork do MySQL.
+**PHPMyAdmin** é um aplicativo web livre e de código aberto para administração do MySQL pela Internet.
 
 **Link** do [site do PHPMyAdmin](https://www.phpmyadmin.net/)
 
