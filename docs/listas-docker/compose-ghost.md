@@ -19,9 +19,9 @@ nav_order: 4
 # Info básica
 {: .fs-9 }
 
-**Ghost** é um sistema de gerenciamento de banco de dados que surgiu como fork do MySQL.
+**Ghost** é uma plataforma de blogs gratuita e de código aberto para publicações online.
 
-**Link** do [site do Ghost](https://www.phpmyadmin.net/)
+**Link** do [site do Ghost](https://ghost.org)
 
 
 ---
