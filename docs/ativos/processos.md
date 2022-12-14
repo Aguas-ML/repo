@@ -23,7 +23,7 @@ Em ordem alfabética
 - <a href="https://cmpc.org.br" target="_blank">Conselhos de Cultura</a>
 - <a href="https://culturaporto.org.br/carta-de-porto-feliz/" target="_blank">Cultura Porto</a>
 - <a href="https://pcd.dataverso.org" target="_blank">Dataverso PcD</a>
-- <a href="https://etica.ai/" target="_blank">Etica AI</a>
+- <a href="https://pt.etica.ai/" target="_blank">Ética AI</a>
 - <a href="https://jornalistainclusivo.com" target="_blank">Jornalista Inclusivo</a>
 - <a href="https://guarany.org.br/" target="_blank">OSCIP Guarany</a>
 - <a href="https://pacha.men" target="_blank">PachaMen</a>
