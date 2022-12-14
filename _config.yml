@@ -69,7 +69,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Contato via chat":
-    - "https://chat.aguas.ml"
+    - "https://chat.aguas.dev"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -79,9 +79,9 @@ aux_links_new_tab: true
 # External navigation links
 nav_external_links:
   - title: Abra um pad
-    url: https://pad.aguas.ml
+    url: https://pad.aguas.cc
   - title: Serviços digitais
-    url: https://graficos.aguas.ml/servicos
+    url: https://nas.aguas.cc/servicos
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -107,7 +107,7 @@ footer_content: "Um site <a href=\"https://caminhodasaguas.org.br/\">Caminho das
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: nil
 
-callouts_level: quiet # or loud
+callouts_level: loud # or loud
 callouts:
   highlight:
     color: yellow
