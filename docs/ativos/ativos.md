@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inventário
+title: Ativos disponíveis
 nav_order: 3
 has_children: true
 permalink: /docs/ativos
@@ -14,8 +14,8 @@ Aqui temos uma forma de apresentar os recursos disponíveis na Plataforma Águas
 
 [Infra](/docs/ativos/infra){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Tecnologias](/docs/ativos/cibernetica){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-## Alguns logs
-Já fizemos várias tentativas para um registro das atividades. 
+## Inventário e atividades
+Já fizemos várias tentativas para um registro das atividades mais transparente e aberto ao público. 
 
 - registros iniciados em 2017 no <a href="https://info.aguas.cc" target="_blank">Ciclos ÁguasML</a>
 - tentativa moderninha no <a href="https://repo.aguas.cc" target="_blank">Das Águas ML</a>, início em Jun2022
