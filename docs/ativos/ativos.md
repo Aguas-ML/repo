@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/ativos
 ---
 
-# Ativos disponíveis
+# Ativos disponíveis e log
 {: .fs-9 }
 
 Aqui temos uma forma de apresentar os recursos disponíveis na Plataforma Águas Mídia Livre 
