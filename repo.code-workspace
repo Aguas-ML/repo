@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "just-the-docs",
-			"path": "../just-the-docs"
 		}
 	],
 	"settings": {}
