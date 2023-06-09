@@ -17,11 +17,11 @@ Aqui temos uma forma de apresentar os recursos disponíveis na Plataforma Águas
 ## Alguns logs
 Já fizemos várias tentativas para um registro das atividades. 
 
+- registros iniciados em 2017 no <a href="https://info.aguas.cc" target="_blank">Ciclos ÁguasML</a>
+- tentativa moderninha no <a href="https://repo.aguas.cc" target="_blank">Das Águas ML</a>, início em Jun2022
+- remodelação do <a href="https://docs.aguas.bio.br" target="_blank">novo local para documentação</a>, em Junho de 2023
+
 Um registro de sonhos deveria ser feito de forma coerente e agradável para todes entre o mundo social e o digital. Seriam registros aptos à pessoas que só usam 2 apps no celular e intercambiáveis com as pessoas aderentes ao DevOps e ChatOps.
-
-- tentativa moderninha no <a href="https://das.aguas.ml" target="_blank">Das Águas ML</a>, início em Jun2022
-- registros iniciados em 2017 no <a href="https://ciclos.aguas.ml" target="_blank">Ciclos ÁguasML</a>
-
 
 
 
